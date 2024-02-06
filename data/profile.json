@@ -1,0 +1,69 @@
+{
+  "name": "Gabriel C Melo",
+  "photo": "./data/imgs/imagemDePerfil.png",
+  "job": "Estudante / UPE",
+  "location": "Recife - PE",
+  "phone": "(81) 99403-1051",
+  "email": "gabriel.cmelo@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "./data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "./data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "./data/imgs/js.png"
+      }
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Adaptabilidade",
+      "Confiança",
+      "Pensamento crítico"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de um Pokedex utilizando PokeAPI",
+      "url": "https://github.com/gabriel-cmelo/dio-js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Clonagem de uma Grid Page do YouTube",
+      "url": "https://github.com/gabriel-cmelo/dio-css-desafio-grid",
+      "github": true
+    },
+    {
+      "name": "Clonagem da página inicial do Discord",
+      "url": "https://github.com/gabriel-cmelo/dio-css-desafio-discord",
+      "github": true
+    },
+    {
+      "name": "Wikipédia com Layout Moderno",
+      "url": "https://github.com/gabriel-cmelo/wikipedia-layout-moderno",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Menor Aprendiz / HOPE",
+      "period": "2019 - 2020",
+      "description": "Menor Aprendiz atuando no setor de faturamento do Hospital de Olhos de Pernambuco."
+    },
+    {
+      "name": "Estagiário / HOPE",
+      "period": "2021 - 2022",
+      "description": "Estagiário atuando no setor de tesouraria do Hospital de Olhos de Pernambuco."
+    }
+  ]
+}
