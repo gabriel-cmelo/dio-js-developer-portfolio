@@ -56,14 +56,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Menor Aprendiz / HOPE",
+      "name": "Aprendiz / HOPE",
       "period": "2019 - 2020",
-      "description": "Menor Aprendiz atuando no setor de faturamento do Hospital de Olhos de Pernambuco."
+      "description": "Aprendiz no setor de faturamento do Hospital de Olhos de Pernambuco."
     },
     {
       "name": "Estagiário / HOPE",
       "period": "2021 - 2022",
-      "description": "Estagiário atuando no setor de tesouraria do Hospital de Olhos de Pernambuco."
+      "description": "Estagiário no setor de tesouraria do Hospital de Olhos de Pernambuco."
     }
   ]
 }
