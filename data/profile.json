@@ -35,22 +35,22 @@
   "portfolio": [
     {
       "name": "Criação de um Pokedex utilizando PokeAPI",
-      "url": "https://github.com/gabriel-cmelo/dio-js-developer-pokedex",
+      "url": "https://gabriel-cmelo.github.io/dio-js-developer-pokedex/",
       "github": true
     },
     {
-      "name": "Clonagem de uma Grid Page do YouTube",
-      "url": "https://github.com/gabriel-cmelo/dio-css-desafio-grid",
+      "name": "Clonagem da Página Inicial do Discord",
+      "url": "https://gabriel-cmelo.github.io/dio-css-desafio-discord/",
       "github": true
     },
     {
-      "name": "Clonagem da página inicial do Discord",
-      "url": "https://github.com/gabriel-cmelo/dio-css-desafio-discord",
+      "name": "Cafeteria Fictícia",
+      "url": "https://gabriel-cmelo.github.io/coffee-shop/",
       "github": true
     },
     {
       "name": "Wikipédia com Layout Moderno",
-      "url": "https://github.com/gabriel-cmelo/wikipedia-layout-moderno",
+      "url": "https://gabriel-cmelo.github.io/wikipedia-layout-moderno/",
       "github": true
     }
   ],
