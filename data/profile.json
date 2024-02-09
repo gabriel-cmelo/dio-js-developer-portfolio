@@ -18,6 +18,10 @@
       {
         "name": "JavaScript",
         "logo": "./data/imgs/js.png"
+      },
+      {
+        "name": "UX Design",
+        "logo": "./data/imgs/ux.png"
       }
     ],
     "softSkills": [
