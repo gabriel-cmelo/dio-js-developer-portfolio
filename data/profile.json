@@ -22,6 +22,18 @@
       {
         "name": "UX Design",
         "logo": "./data/imgs/ux.png"
+      },
+      {
+        "name": "Python",
+        "logo": "./data/imgs/python.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "./data/imgs/mysql.png"
+      },
+      {
+        "name": "Power BI",
+        "logo": "./data/imgs/pwrbi.png"
       }
     ],
     "softSkills": [
